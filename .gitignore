@@ -1,2 +1,7 @@
 *
 !.gitignore
+
+# Sway config
+!.config/
+!.config/sway
+!.config/sway/**

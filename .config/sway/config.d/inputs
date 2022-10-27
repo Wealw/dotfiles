@@ -1,0 +1,8 @@
+input * {
+	xkb_layout "fr, us"
+}
+
+input  type:touchpad {
+	tap enabled
+	natural_scroll enabled
+}

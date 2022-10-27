@@ -1,0 +1,6 @@
+#assign [class="idea"]            1
+#assign [class="Google-chrome"]   2
+#assign [class="Spotify"]         3
+#assign [class="Telegram"]        3
+#assign [class="Steam"]           4
+#assign [class="discord"]         4

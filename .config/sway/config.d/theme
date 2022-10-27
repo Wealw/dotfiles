@@ -1,0 +1,6 @@
+output * bg #000000 solid_color
+output * bg ../wallpaper/wallpaper.png fill
+
+default_border none
+default_floating_border pixel 1
+client.focused	"#ffffff" "#000000" "#000000" "#ff0000" "#ffffff"
